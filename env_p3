@@ -1,0 +1,5 @@
+conda create -n myenv_p3 python=3.11.4 jupyter numpy pandas matplotlib seaborn statsmodels scipy scikit-learn tensorflow xgboost shap lime
+
+conda activate myenv_p3
+
+conda deactivate
